@@ -18,7 +18,8 @@
 #' @importFrom DECIPHER AlignSeqs AlignTranslation ConsensusSequence
 #'               CorrectFrameshifts DistanceMatrix TreeLine RemoveGaps BrowseSeqs
 #' @importFrom Biostrings DNAString DNAStringSet AAStringSet GENETIC_CODE trinucleotideFrequency
-#'               reverseComplement translate writeXStringSet translate compareStrings subseq
+#'               reverseComplement translate writeXStringSet translate subseq
+#' @importFrom pwalign compareStrings
 #' @importFrom DT dataTableOutput renderDataTable
 #' @importFrom shinycssloaders withSpinner
 #' @importFrom ggdendro ggdendrogram
