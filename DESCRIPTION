@@ -1,7 +1,7 @@
 Package: sangeranalyseR
 Type: Package
 Title: sangeranalyseR: a suite of functions for the analysis of Sanger sequence data in R
-Version: 1.23.0
+Version: 1.24.0
 Date: 2024-04-24
 Authors@R: c(
     person("Rob", "Lanfear", email = "rob.lanfear@gmail.com",
